@@ -1,0 +1,8 @@
+angularchampions\repository\Champion.class
+angularchampions\mapper\ChampionMapperImpl.class
+angularchampions\repository\ChampionRepository.class
+angularchampions\DTOs\ChampionDTO.class
+angularchampions\exceptions\ResourceNotFoundException.class
+angularchampions\controller\ChampionController.class
+angularchampions\AngularChampionsApplication.class
+angularchampions\mapper\ChampionMapper.class
